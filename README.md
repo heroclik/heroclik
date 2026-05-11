@@ -1,45 +1,46 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/heroclik/heroclik/main/name.gif" alt="Theeraporn Pormsorn" />
-</h1>
-
-## Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I'm Theeraporn, a 22 years old Back-end developer from Thailand.
-
-Back-end Developer
---------------------
-
-I'm graduated from COM SCI RMUTP
-
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [net.or.th@gmail.com](mailto:net.or.th@gmail.com)
-* 🧠  I'm learning node.js
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=heroclik&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=dark"/>
+  <p align="right">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Sequelize-333?style=flat-square&logo=sequelize&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Postman-333?style=flat-square&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Jenkins-333?style=flat-square&logo=jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nginx-333?style=flat-square&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Socket.IO-333?style=flat-square&logo=socketdotio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NestJS-333?style=flat-square&logo=nestjs&logoColor=white"/>
+  </p>
 </p>
 
+<br clear="both"/>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.facebook.com/car.or.th" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/heroclik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+## 👋 About Me
 
-### Badges
+🧑‍💻 I'm **THEERAPORN PROMSORN**, Backend Developer - DevOps.<br/>
+💼 Based in **Samutprakan, Thailand**, working at **DEV INNOWAVE TECH CO., LTD.**.<br/>
+🌱 Currently learning: **Finops**<br/>
+💬 Ask me about: **RESTful API development, database optimization, and DevOps practices.**<br/>
+⚡ Fun fact: 2nd Runner-up in the National Database Management Skills Competition in 2019.
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/heroclik"><img src="https://github-readme-stats.vercel.app/api?username=heroclik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="heroclik's GitHub stats" /></a>
+## 📫 Contact
 
-<a href="http://www.github.com/heroclik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=heroclik&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:net.or.th@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heroclik)
 
-<a href="https://github.com/heroclik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroclik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+---
 
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heroclik&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
